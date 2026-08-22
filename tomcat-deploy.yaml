@@ -4,7 +4,7 @@ metadata:
   name: myapp1
   namespace: mytg
 spec:
-  replicas: 5
+  replicas: 2
   selector:
     matchLabels:
      env: stage
